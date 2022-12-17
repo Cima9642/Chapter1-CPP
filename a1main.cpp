@@ -7,7 +7,7 @@ using namespace std;
 
 int main () {
 	
-	cout << "Name: Carlos Martinez\nAddress: 19715 Interstate 35 Access Rd , Lytle , Tx 78052\nPhone Number: 	(830) 772-4905 \nMajor: Computer Science"<< endl;
+	cout << "Name: Carlos Martinez\nAddress: 19715 Interstate 35 Access Rd , Lytle , Tx 78052\nPhone Number:(830) 772-4905 \nMajor: Computer Science"<< endl;
 	
 	
 	return 0;
